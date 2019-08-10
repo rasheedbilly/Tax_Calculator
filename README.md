@@ -1,7 +1,7 @@
 # Tax_Calculator
 Coding assignment
 
-Brief explanation of your design and assumptions along with your code.
+Brief explanation of design and assumptions.
 
 Design:
 My tax calculator takes a text file input, reads each item line by line, 
